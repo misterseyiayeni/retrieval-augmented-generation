@@ -49,8 +49,7 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline using La
 ![5](https://github.com/user-attachments/assets/430f78da-b657-4a25-9bc6-4cebef2e3a82)
 
 
-
-
+Reference: https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-15+V1
 
 
 
