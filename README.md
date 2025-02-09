@@ -5,14 +5,14 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline using La
 ### Features
 
 - Document Retrieval: Uses FAISS for efficient similarity search to retrieve relevant documents.
-- Context-Aware Generation: Leverages NVIDIA's LLM (e.g., LLaMA) to generate responses based on retrieved documents.
+- Context-Aware Generation: Leverages LLaMA model to generate responses based on retrieved documents.
 - API Deployment: Exposes the RAG pipeline as RESTful APIs using FastAPI and LangServe.
 - Interactive Frontend: Provides a user-friendly Gradio interface for testing the RAG system.
 
 ### Technologies Used
 
 - LangChain: Framework for building and chaining components in the RAG pipeline.
-- NVIDIA AI Endpoints: Provides access to state-of-the-art LLMs for text generation.
+- LLaMa: LLM for text generation.
 - FAISS: Library for efficient similarity search and retrieval of documents.
 - FastAPI: Modern web framework for building APIs.
 - Gradio: Library for creating interactive web interfaces.
