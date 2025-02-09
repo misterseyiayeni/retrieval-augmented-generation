@@ -11,7 +11,7 @@ This project implements a chatbot powered by a Retrieval-Augmented Generation (R
 
 ### Technologies Used
 
-- LangChain: Framework for building and chaining components in the RAG pipeline.
+- LangChain: Framework for LLM orchestration, building and chaining components in the RAG pipeline.
 - LLaMa: LLM for text generation.
 - FAISS: Library for efficient similarity search and retrieval of documents.
 - FastAPI: Modern web framework for building APIs.
