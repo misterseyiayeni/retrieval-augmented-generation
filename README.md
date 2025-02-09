@@ -36,7 +36,7 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline using La
 - RAG
 - ![RAG](https://github.com/user-attachments/assets/7cf67b53-fe20-487e-8cc9-117c8b9ee761)
 
-- Evaluation using RAG evaluation techniques incorporating LLM-as-a-Judge metrics!
+- RAG evaluation techniques incorporating LLM-as-a-Judge metrics!
 
 ![1](https://github.com/user-attachments/assets/fd1c1eb6-0e1f-44c5-a02b-89fced0fcea1)
 
