@@ -1,6 +1,6 @@
 ## Retrieval-Augmented Generation (RAG) Application
 
-This project implements a Retrieval-Augmented Generation (RAG) pipeline using LangChain, NVIDIA Embeddings Model, an LLM, theLLaMa model, and FAISS. The RAG system retrieves relevant documents from a vector store using FAISS and generates context-aware responses from LLaMa. The application is deployed as a FastAPI server and integrated with a Gradio frontend for interactive use.
+This project implements a Retrieval-Augmented Generation (RAG) pipeline using LangChain, NVIDIA Embeddings Model, an LLM (LLaMa model), and FAISS. The RAG system retrieves relevant documents from a vector store (created with NVIDIA Embeddings Model) using FAISS and generates context-aware responses from LLaMa. The application is deployed as a FastAPI server and integrated with a Gradio frontend for interactive use.
 
 ### Features
 
