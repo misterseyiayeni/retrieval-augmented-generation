@@ -22,11 +22,11 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline using La
 
 <pre style="text-align: left;">
 ├── server_app.py              # FastAPI server implementation
-├── rag_chain.py               # RAG pipeline implementation
+├── 08_evaluation.ipynb               # RAG pipeline implementation
 ├── docstore_index/            # Directory containing the FAISS document store
 ├── requirements.txt           # Python dependencies
 ├── README.md                  # Project documentation
-└── frontend/                  # Gradio frontend code (optional)
+└── frontend/                  # Gradio frontend code
 </pre>
 
 - Basic reasoning
